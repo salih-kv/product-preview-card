@@ -91,6 +91,9 @@ button {
   font-weight: bold;
   cursor: pointer;
 }
+button:hover {
+  opacity: .9;
+}
 button:active {
   background: var(--Very-dark-blue);
 }
